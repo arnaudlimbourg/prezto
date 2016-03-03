@@ -128,6 +128,7 @@ zstyle ':prezto:module:ssh:load' identities 'id_rsa'
 #   'main' \
 #   'brackets' \
 #   'pattern' \
+#   'line' \
 #   'cursor' \
 #   'root'
 #
